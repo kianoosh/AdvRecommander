@@ -1,0 +1,20 @@
+# Maven build directories
+target/
+# IntelliJ IDEA
+.idea/
+*.iml
+# Eclipse
+.settings/
+.classpath
+.project
+# Operating system files
+.DS_Store
+Thumbs.db
+# Logs
+*.log
+# Compiled class files
+*.class
+# Other files from various IDEs
+*.swp
+*.swo
+.vscode/
