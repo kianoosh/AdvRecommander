@@ -1,6 +1,4 @@
-## Starting and Configuring my Project with Maven
-
-This project is set to work with maven
+## This project is set to work with maven
 
 ### To Build The Project
 
@@ -20,4 +18,15 @@ After building, you can run using:
 
 ```bash
 java -jar target/Advrecommander-1.0-S
+```
+
+### Other git command used
+
+```bash
+git init
+git branch -m master main
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/kianoosh/AdvRecommander
+git push -u origin main
 ```
