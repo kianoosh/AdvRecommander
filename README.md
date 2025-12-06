@@ -17,8 +17,12 @@ This command cleans any previous builds and compiles the project.
 After building, you can run using:
 
 ```bash
-java -jar target/Advrecommander-1.0-S
+java -jar target/AdvRecommander-1.0.jar data/impressions.json data/clicks.json
 ```
+
+The command will generate two file
+metrics_output.json
+recommendations_output.json
 
 ### Other git command used
 
